@@ -1,0 +1,6 @@
+.venv/
+data/
+figures/
+__pycache__/
+*.pyc
+.vscode/
