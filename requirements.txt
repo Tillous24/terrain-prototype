@@ -20,3 +20,4 @@ rasterio==1.5.2
 shapely==2.2.0
 six==1.17.0
 tzdata==2026.5
+python==3.12.3
